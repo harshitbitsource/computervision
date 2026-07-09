@@ -131,6 +131,8 @@ runs/
 tensorboard/
 lightning_logs/
 outputs/
+venv./
+
 
 # ================= Hardware / Embedded specific =================
 *.bit          # FPGA bitstreams
